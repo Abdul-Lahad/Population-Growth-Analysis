@@ -1,0 +1,101 @@
+Rank,City,Population 2017 Census,Population 1998 Census,Change,Province
+1,Karachi,14916456,9339023,0.5972,Sindh
+2,Lahore,11126285,5209088,1.1359,Punjab
+3,Faisalabad,3204726,2008861,0.5953,Punjab
+4,Rawalpindi,2098231,1409768,0.4884,Punjab
+5,Gujranwala,2027001,1132509,0.7898,Punjab
+6,Peshawar,1970042,982816,1.0045,Khyber Pakhtunkhwa
+7,Multan,1871843,1197384,0.5633,Punjab
+8,Hyderabad,1734309,1166894,0.4863,Sindh
+9,Islamabad,1009832,529180,0.9083,Islamabad
+10,Quetta,1001205,565137,0.7716,Balochistan
+11,Bahawalpur,762111,408395,0.8661,Punjab
+12,Sargodha,659862,458440,0.4394,Punjab
+13,Sialkot,655852,421502,0.556,Punjab
+14,Sukkur,499900,335551,0.4898,Sindh
+15,Larkana,490508,270283,0.8148,Sindh
+16,Rahim Yar Khan,477100,233537,1.0429,Punjab
+17,Sheikhupura,473129,280263,0.6882,Punjab
+18,Jhang,414131,293366,0.4117,Punjab
+19,Talagang,401607,284795,0.4102,Punjab
+20,Dera Ghazi Khan,399064,190542,1.0944,Punjab
+21,Gujrat,390533,251792,0.551,Punjab
+22,Sahiwal,389605,208778,0.8661,Punjab
+23,Wah Cantonment,380103,198891,0.9111,Punjab
+24,Mardan,358604,245926,0.4582,Khyber Pakhtunkhwa
+25,Kasur,358409,245321,0.461,Punjab
+26,Okara,357935,201815,0.7736,Punjab
+27,Mingora,331091,173868,0.9043,Khyber Pakhtunkhwa
+28,Nawabshah,279688,189244,0.4779,Sindh
+29,Chiniot,278747,172522,0.6157,Punjab
+30,Kotri,259358,62085,3.1775,Sindh
+31,K?moke,249767,152288,0.6401,Punjab
+32,Hafizabad,245784,133678,0.8386,Punjab
+33,Sadiqabad,239677,144391,0.6599,Punjab
+34,Mirpur Khas,233916,189671,0.2333,Sindh
+35,Burewala,231797,152097,0.524,Punjab
+36,Kohat,228779,126627,0.8067,Khyber Pakhtunkhwa
+37,Khanewal,227059,133986,0.6946,Punjab
+38,Dera Ismail Khan,217457,92114,1.3607,Khyber Pakhtunkhwa
+39,Turbat,213557,68603,2.1129,Balochistan
+40,Muzaffargarh,209604,123404,0.6985,Punjab
+41,Abbotabad,208491,106101,0.965,Khyber Pakhtunkhwa
+42,Mandi Bahauddin,198609,99496,0.9962,Punjab
+43,Shikarpur,195437,134883,0.4489,Sindh
+44,Jacobabad,191076,138780,0.3768,Sindh
+45,Jhelum,190425,147392,0.292,Punjab
+46,Khanpur,184793,120382,0.5351,Punjab
+47,Khairpur,183181,105637,0.7341,Sindh
+48,Khuzdar,182927,91057,1.0089,Balochistan
+49,Pakpattan,176693,109033,0.6205,Punjab
+50,Hub,175376,62763,1.7943,Balochistan
+51,Daska,175170,102883,0.7026,Punjab
+52,Gojra,174860,117892,0.4832,Punjab
+53,Dadu,171191,102550,0.6693,Sindh
+54,Muridke,166652,111951,0.4886,Punjab
+55,Bahawalnagar,161033,111313,0.4467,Punjab
+56,Samundri,156991,54908,1.8592,Punjab
+57,Tando Allahyar,156562,85812,0.8245,Sindh
+58,Tando Adam,152617,104907,0.4548,Sindh
+59,Jaranwala,150380,106985,0.4056,Punjab
+60,Chishtian,149939,102287,0.4659,Punjab
+61,Muzaffarabad,149913,85462,0.7541,Azad Kashmir
+62,Attock,146396,69729,1.0995,Punjab
+63,Vehari,145464,94343,0.5419,Punjab
+64,Kot Abdul Malik,143434,63525,1.2579,Punjab
+65,Ferozwala,141405,55433,1.5509,Punjab
+66,Chakwal,138146,80508,0.7159,Punjab
+67,Gujranwala Cantonment,137302,93093,0.4749,Punjab
+68,Kamalia,135641,97324,0.3937,Punjab
+69,Umerkot,134052,35559,2.7698,Sindh
+70,Ahmedpur East,133369,96415,0.3833,Punjab
+71,Kot Addu,129703,80720,0.6068,Punjab
+72,Wazirabad,128060,90197,0.4198,Punjab
+73,Mansehra,127623,49534,1.5765,Khyber Pakhtunkhwa
+74,Layyah,126361,72319,0.7473,Punjab
+75,Mirpur,124352,115641,0.0753,Azad Kashmir
+76,Swabi,123412,80157,0.5396,Khyber Pakhtunkhwa
+77,Chaman,123191,56792,1.1692,Balochistan
+78,Taxila,121952,71882,0.6966,Punjab
+79,Nowshera,120131,89813,0.3376,Khyber Pakhtunkhwa
+80,Khushab,119384,87859,0.3588,Punjab
+81,Shahdadkot,118915,60436,0.9676,Sindh
+82,Mianwali,118883,80171,0.4829,Punjab
+83,Kabal,118103,75891,0.5562,Khyber Pakhtunkhwa
+84,Lodhran,117851,65501,0.7992,Punjab
+85,Hasilpur,115536,71295,0.6205,Punjab
+86,Charsadda,114565,87218,0.3135,Khyber Pakhtunkhwa
+87,Bhakkar,113018,68896,0.6404,Punjab
+88,Badin,112420,62843,0.7889,Sindh
+89,Arif Wala,111403,74174,0.5019,Punjab
+90,Ghotki,111321,52823,1.1074,Sindh
+91,Sambrial,109479,49574,1.2084,Punjab
+92,Jatoi,109424,38986,1.8068,Punjab
+93,Haroonabad,107858,62878,0.7154,Punjab
+94,Daharki,103557,34615,1.9917,Sindh
+95,Narowal,103067,57052,0.8065,Punjab
+96,Tando Muhammad Khan,101863,65396,0.5576,Sindh
+97,Kamber Ali Khan,101474,58369,0.7385,Sindh
+98,Mirpur Mathelo,100760,42421,1.3752,Sindh
+99,Kandhkot,100698,67566,0.4904,Sindh
+100,Bhalwal,100135,61523,0.6276,Punjab
